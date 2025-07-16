@@ -2578,6 +2578,9 @@
             },
             "link": {
               "label": "Link"
+            },
+            "text_on_img": {
+              "label": "Show the text on the image"
             }
           }
         }
