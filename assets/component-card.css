@@ -8,6 +8,8 @@
 .card {
   text-decoration: none;
   text-align: var(--text-alignment);
+  padding: 7px;
+  border: 1px solid #D7D7D7
 }
 
 .card:not(.ratio) {
@@ -469,10 +471,6 @@
 
 .card-information>*+* {
   margin-top: 0.5rem;
-}
-
-.card-information {
-  width: 100%;
 }
 
 .card-information>* {
