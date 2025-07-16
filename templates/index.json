@@ -87,7 +87,7 @@
           "settings": {
             "text_on_img": true,
             "image": "shopify://shop_images/icon-cybersecurity.svg",
-            "title": "CybersecurityOriented",
+            "title": "Cybersecurity Oriented",
             "text": "",
             "link_label": "LEARN MORE",
             "link": ""
@@ -102,7 +102,7 @@
       "settings": {
         "title": "",
         "heading_size": "h1",
-        "image_width": "third",
+        "image_width": "full",
         "image_ratio": "adapt",
         "button_label": "",
         "button_link": "",
